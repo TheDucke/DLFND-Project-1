@@ -1,4 +1,5 @@
 # DLFND-Project-1
-The implementation of the first project of the DLFND 
+
+Regular neural network to predict daily bike rental ridership.
 
 
